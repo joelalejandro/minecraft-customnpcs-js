@@ -1,6 +1,8 @@
 /**
   Charming Charmer
   
+  Place this script in the 'Interact' hook of your NPC.
+  
   Allows you to program an NPC that enchants items or enhances previous enchantments
   for money.
   
