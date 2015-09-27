@@ -47,7 +47,7 @@ if (h === null) {
     }
   } else {
     if (!player.removeItem(CURRENCY_ID, 0, BASE_COST)) {
-      npc.say(player, 'To acquire a Level 1 enchantment for your ' + h.getItemName() + ' you'll need ' + BASE_COST + ' ' + CURRENCY_NAME + '.');
+      npc.say(player, 'To acquire a Level 1 enchantment for your ' + h.getItemName() + ' you will need ' + BASE_COST + ' ' + CURRENCY_NAME + '.');
     } else {
       var enchId = 0;
       player.removeAllItems(h);
