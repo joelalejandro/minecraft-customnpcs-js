@@ -13,7 +13,8 @@ for an amount of money that is the sum of all enchantments' level plus a random 
 
 ## elixir_of_teleport.js
 
-Creates a potion that allows you to escape from danger. It teleportsthe player to a random position within n-blocks of range.
+Creates a potion that allows you to escape from danger. It teleports
+the player to a random position within n-blocks of range.
 
 ## money_satchel.js
 
